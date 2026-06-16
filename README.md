@@ -38,7 +38,7 @@ This application allows users to upload PDF documents and YouTube videos, then i
 ---
 
 ## Architecture
-
+```text
 ### PDF Pipeline
 
 PDF Upload
@@ -74,7 +74,7 @@ Retriever
 Gemini
 ↓
 Answer Generation
-
+```
 ---
 
 ## Project Structure
@@ -239,6 +239,8 @@ http://localhost:8501
 ---
 
 ## Author
+```text
 Ansuman Satapathy
 GitHub: https://github.com/Ansuman3010
+```
 
