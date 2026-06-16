@@ -236,25 +236,9 @@ http://localhost:8501
 
 ---
 
-## Future Improvements
-
-* Chat history memory
-* Multi-video support
-* MP4 file uploads
-* OCR for scanned PDFs
-* Export notes to PDF
-* Quiz mode
-* User authentication
-
 ---
 
 ## Author
+Ansuman Satapathy
+GitHub: https://github.com/Ansuman3010
 
-Built as an AI/ML internship project demonstrating:
-
-* Retrieval-Augmented Generation (RAG)
-* Vector Databases
-* Semantic Search
-* Speech-to-Text Processing
-* Large Language Models
-* Streamlit Deployment
